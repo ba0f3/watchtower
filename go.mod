@@ -5,7 +5,7 @@ go 1.25.0
 require (
 	github.com/containrrr/shoutrrr v0.8.0
 	github.com/distribution/reference v0.6.0
-	github.com/docker/cli v24.0.7+incompatible
+	github.com/docker/cli v29.2.0+incompatible
 	github.com/docker/docker v24.0.7+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/onsi/ginkgo v1.16.5
@@ -17,7 +17,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.18.2
 	github.com/stretchr/testify v1.10.0
-	golang.org/x/net v0.49.0
+	golang.org/x/net v0.53.0
 )
 
 require (
@@ -65,10 +65,10 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.9.0 // indirect
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
-	golang.org/x/sys v0.40.0 // indirect
+	golang.org/x/sys v0.43.0 // indirect
 	golang.org/x/text v0.36.0
 	golang.org/x/time v0.5.0 // indirect
-	google.golang.org/protobuf v1.36.7 // indirect
+	google.golang.org/protobuf v1.36.11 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
